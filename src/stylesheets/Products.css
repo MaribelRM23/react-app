@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.card-containers{
+    width: 350px;
+    box-shadow: 10px 10px  30px gray;
+    border-radius: 20px;
+    height: 530px;
+    margin: 60px auto;
+    }
+.contenido{
+    text-align: center;
+   margin-top: 25px;
+   margin-left: 40px;
+   margin-right: 40px;
+   
+}
+.title{
+color: black;
+text-align: center;
+margin-top: 25px;
+
+}
+.text{
+color: black;
+text-align: center;
+margin-top: 10px;
+margin-left: 30px;
+margin-right: 30px;
+}
+.boton{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    color: aliceblue;
+    background-color: hsl(245, 75%, 52%);
+    margin-top: 15px;
+    border-radius: 5px;
+    height: 35px;
+}
+.boton2{
+    color: silver;
+    margin-top: 15px;
+}
+.imgs{
+    width: 350px;
+    border-top-right-radius: 20px ;
+    border-top-left-radius: 20px;
+}
+.imgm{
+    width: 40px;
+    margin-right: 10px;
+}
+.flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: hsla(224, 23%, 55%, 0.043);
+    border-radius: 15px;
+   
+    
+}
+
+.cambio{
+    color:  hsl(245, 75%, 52%);
+    margin-left: 10px;
+    
+}
+.planes{
+margin: 15px;
+}
+.valor{
+    margin-top: 5px;
+    color: rgba(112, 128, 144, 0.492);
+}
